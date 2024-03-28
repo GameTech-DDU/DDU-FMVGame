@@ -4,18 +4,12 @@ namespace FmvMaker.Graph {
     [Serializable]
     public enum FmvVideoEnum {
         None,
-        UniqueVideoName,
-        NextUniqueVideoName,
-        AnotherUniqueVideoName,
-        DifferentUniqueVideoName,
-        UniqueToDifferentVideoName,
-        UniqueIdleVideoName,
-        DialogIntro,
-        DialogIdle,
-        DialogOption1,
-        DialogOption2,
-        DialogOption3,
-        DialogOption4,
-        DialogOption5,
+        STValg01,
+        STLoop01,
+        Valg1Loop,
+        Valg1ST01,
+        Valg1Valg201,
+        Valg2Loop,
+        Valg2ST01,
     }
 }
