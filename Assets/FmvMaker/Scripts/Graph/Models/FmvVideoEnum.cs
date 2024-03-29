@@ -4,7 +4,7 @@ namespace FmvMaker.Graph {
     [Serializable]
     public enum FmvVideoEnum {
         None,
-        STValg01,
+        STValg101,
         STLoop01,
         Valg1Loop,
         Valg1ST01,
